@@ -44,7 +44,7 @@
     </div>
 
     <section id="keunggulan">
-        <div class="container">
+        <div class="container animate-on-scroll fade-in-up">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8">
                     <div class="section-title">
@@ -97,7 +97,7 @@
     <section id="destinasi">
         <div class="container">
             
-            <div class="row justify-content-center text-center">
+            <div class="row justify-content-center text-center animate-on-scroll fade-in-up">
                 <div class="col-lg-8">
                     <div class="section-title">
                         <h2 class="color-accent1">Destinasi Favorit</h2>
@@ -107,7 +107,7 @@
             </div>
 
             <div class="row">
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-4 animate-on-scroll fade-in-left">
                     <div class="destinasi-card">
                         <div class="card-img-top-wrapper">
                             <img src="{{ asset('images/kuil.png') }}" alt="Kuil Kuno Osaka">
@@ -125,7 +125,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-4 animate-on-scroll fade-in-left">
                     <div class="destinasi-card">
                         <div class="card-img-top-wrapper">
                             <img src="{{ asset('images/kuil.png') }}" alt="Kuil Kuno Osaka">
@@ -143,7 +143,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-4 animate-on-scroll fade-in-right">
                     <div class="destinasi-card">
                         <div class="card-img-top-wrapper">
                             <img src="{{ asset('images/kuil.png') }}" alt="Kuil Kuno Osaka">
@@ -161,7 +161,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-4 animate-on-scroll fade-in-right">
                     <div class="destinasi-card">
                         <div class="card-img-top-wrapper">
                             <img src="{{ asset('images/kuil.png') }}" alt="Kuil Kuno Osaka">
@@ -196,13 +196,13 @@
 
     <section id="pemesanan">
         <div class="container">
-            <div class="row align-items-center justify-content-center">
-                <div class="col-lg-6 me-5">
+            <div class="row align-items-center justify-content-center ">
+                <div class="col-lg-6 me-5 animate-on-scroll fade-in-left">
                     <div class="pemesanan-image-wrapper">
                         <img src="{{ asset('images/Pemesanan.png') }}" class="img-fluid" alt="Langkah-langkah pemesanan yang mudah">
                     </div>
                 </div>
-                <div class="col-lg-5 ">
+                <div class="col-lg-5 animate-on-scroll fade-in-right">
                     <div class="pemesanan-content">
                         <p class="subtitle">Langkah Pemesanan</p>
                         <h2 class="section-title-custom">3 Langkah Mudah Untuk Menjelajah</h2>
@@ -257,7 +257,7 @@
     </div>
 
     <section id="testimoni">
-        <div class="container">
+        <div class="container animate-on-scroll fade-in-up">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-8">
                     <div class="section-title">
@@ -350,7 +350,7 @@
 
     <section id="cta">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center animate-on-scroll fade-in-left">
                 <div class="col-lg-8 ">
                     <h2 class="cta-title header-2 mb-3">Jelajahi dunia tanpa batas. Mulai petualanganmu sekarang!</h2>
                     <p class="cta-subtitle body-1">Waktunya wujudkan perjalanan yang selalu kamu tunggu. Jelajahi dunia dengan cara lebih mudah, hemat, dan penuh pengalaman tak terlupakan.</p>
